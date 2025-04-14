@@ -33,10 +33,16 @@
         "nome": "opala",
         "idade": "1979-02-12",
         "marca": "chevrolet",
-        "valor": null
+        "valor": null 
     },
     {
         "nome": "12313",
+        "idade": "1111-11-11",
+        "marca": "1231",
+        "valor": "1233"
+    },
+    {
+        "nome": "12313589",
         "idade": "1111-11-11",
         "marca": "1231",
         "valor": "1233"
