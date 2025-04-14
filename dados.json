@@ -1,0 +1,44 @@
+[
+    {
+        "nome": "Maverick",
+        "idade": "1973-02-10",
+        "marca": "Ford",
+        "valor": "300000"
+    },
+    {
+        "nome": "carro",
+        "idade": "0232-03-21",
+        "marca": "123",
+        "valor": "1212"
+    },
+    {
+        "nome": "qdefseq",
+        "idade": "0013-02-13",
+        "marca": "qewfew",
+        "valor": "12321"
+    },
+    {
+        "nome": "1232",
+        "idade": "0021-03-12",
+        "marca": "1232",
+        "valor": "12313"
+    },
+    {
+        "nome": "123212",
+        "idade": "275760-02-12",
+        "marca": "12323",
+        "valor": "2342"
+    },
+    {
+        "nome": "opala",
+        "idade": "1979-02-12",
+        "marca": "chevrolet",
+        "valor": null
+    },
+    {
+        "nome": "12313",
+        "idade": "1111-11-11",
+        "marca": "1231",
+        "valor": "1233"
+    }
+]
